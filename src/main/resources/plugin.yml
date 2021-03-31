@@ -1,0 +1,8 @@
+name: Foxxy
+version: 1.0.1
+api-version: 1.13
+main: com.skamlic.baseplugin.BasePlugin
+commands:
+  fox:
+    description: Make me into a fox
+    usage: /<command> add <fox> <owner> <variant>
